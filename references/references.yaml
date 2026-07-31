@@ -1,0 +1,81 @@
+task_id: T000086
+generated_at: '2026-07-31T16:44:09Z'
+selection_policy: literature_first_open_access_high_citation
+citation_threshold: 100
+papers:
+- id: W1981033617
+  title: Cue interaction in human contingency judgment
+  authors:
+  - Gretchen B. Chapman
+  - Steven J. Robbins
+  year: 1990
+  journal: Memory & Cognition
+  doi_or_url: https://doi.org/10.3758/BF03198486
+  citation_count: 264
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - within-subject blocking logic
+  - prediction-response sequence
+  - test contrast
+  parameter_bindings: {}
+  notes: Human contingency-judgment demonstration of blocking with matched target
+    contingencies.
+- id: W2024675017
+  title: Blocking and backward blocking involve learned inattention
+  authors:
+  - John K. Kruschke
+  - Nathaniel J. Blair
+  year: 2000
+  journal: Psychonomic Bulletin & Review
+  doi_or_url: https://doi.org/10.3758/BF03213001
+  citation_count: 196
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - human blocking construct
+  - disease-diagnosis cover task
+  - learned-inattention interpretation
+  parameter_bindings: {}
+  notes: Supporting human blocking evidence and mechanistic interpretation.
+- id: W2058498316
+  title: Forward and backward blocking of causal judgment is enhanced by additivity
+    of effect magnitude
+  authors:
+  - Peter F. Lovibond
+  - Sara-Lee Been
+  - Chris J. Mitchell
+  - Mark E. Bouton
+  - Russell J. Frohardt
+  year: 2003
+  journal: Memory & Cognition
+  doi_or_url: https://doi.org/10.3758/BF03196088
+  citation_count: 129
+  is_high_impact: false
+  open_access: true
+  used_for:
+  - primary food-allergy protocol
+  - 58-trial schedule
+  - additive outcome manipulation
+  - 0-8 causal ratings
+  parameter_bindings: {}
+  notes: 'Primary implementation source: additive forward-blocking group from Experiment
+    1.'
+- id: W2154904563
+  title: Biological Significance as a Determinant of Cue Competition
+  authors:
+  - James C. Denniston
+  - Ralph R. Miller
+  - Helena Matute
+  year: 1996
+  journal: Psychological Science
+  doi_or_url: https://doi.org/10.1111/j.1467-9280.1996.tb00383.x
+  citation_count: 103
+  is_high_impact: true
+  open_access: true
+  used_for:
+  - cue-competition construct
+  - blocking interpretation
+  parameter_bindings: {}
+  notes: High-impact supporting source; not used to define the participant-facing
+    human protocol.

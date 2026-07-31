@@ -1,0 +1,10 @@
+outputs/*
+!/outputs/.gitkeep
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+.DS_Store
+/outputs/*
+/outputs/*

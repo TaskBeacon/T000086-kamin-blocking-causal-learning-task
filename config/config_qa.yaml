@@ -1,0 +1,160 @@
+subinfo_fields:
+  - name: subject_id
+    type: int
+    constraints: {min: 101, max: 999, digits: 3}
+subinfo_mapping:
+  subject_id: 参与者编号
+  Participant Information: 参与者信息
+  registration_failed: 登记失败
+  registration_successful: 登记成功
+  invalid_input: "输入无效：{field}"
+window:
+  size: [1280, 800]
+  units: deg
+  screen: 0
+  bg_color: white
+  fullscreen: false
+  monitor_width_cm: 35.5
+  monitor_distance_cm: 57
+task:
+  task_name: Kamin Blocking and Causal Learning Task
+  variant: additive-forward-blocking
+  save_path: ./outputs/qa
+  language: Chinese
+  voice_enabled: false
+  total_blocks: 5
+  total_training_trials: 16
+  total_trials: 24
+  trial_per_block: 5
+  conditions: [pre_i_pos, pre_j_pos, pre_k_none, pre_l_none, pre_ij_strong, pre_jk_pos, pre_kl_none, a_pos, e_pos_element, f_none_element, gh_none_element, ab_pos, cd_pos, e_pos_compound, f_none_compound, gh_none_compound, test_a, test_b, test_c, test_d, test_e, test_f, test_g, test_h]
+  key_list: [space, "0", "1", "2", "3", "4", "5", "6", "7", "8"]
+  prediction_keys: ["1", "2", "3"]
+  rating_keys: ["0", "1", "2", "3", "4", "5", "6", "7", "8"]
+  outcome_keys: {none: "1", allergy: "2", strong: "3"}
+  seed_mode: same_across_sub
+  delta: 0.0
+  random_seed: 86086
+  phase_order: [pretraining_element, pretraining_compound, element, compound, causal_test]
+  blocking_foods: [酸奶, 蘑菇, 胡萝卜, 葡萄, 核桃, 面条, 橙子, 鸡肉]
+  pretraining_foods: [奶酪, 火腿, 梨, 面包]
+  phase_trials:
+    pretraining_element: {pre_i_pos: 1, pre_j_pos: 1, pre_k_none: 1, pre_l_none: 1}
+    pretraining_compound: {pre_ij_strong: 1, pre_jk_pos: 1, pre_kl_none: 1}
+    element: {a_pos: 1, e_pos_element: 1, f_none_element: 1, gh_none_element: 1}
+    compound: {ab_pos: 1, cd_pos: 1, e_pos_compound: 1, f_none_compound: 1, gh_none_compound: 1}
+    causal_test: {test_a: 1, test_b: 1, test_c: 1, test_d: 1, test_e: 1, test_f: 1, test_g: 1, test_h: 1}
+  condition_specs:
+    pre_i_pos: {stage: pretraining_element, cue_roles: [I], outcome: allergy}
+    pre_j_pos: {stage: pretraining_element, cue_roles: [J], outcome: allergy}
+    pre_k_none: {stage: pretraining_element, cue_roles: [K], outcome: none}
+    pre_l_none: {stage: pretraining_element, cue_roles: [L], outcome: none}
+    pre_ij_strong: {stage: pretraining_compound, cue_roles: [I, J], outcome: strong}
+    pre_jk_pos: {stage: pretraining_compound, cue_roles: [J, K], outcome: allergy}
+    pre_kl_none: {stage: pretraining_compound, cue_roles: [K, L], outcome: none}
+    a_pos: {stage: element, cue_roles: [A], outcome: allergy}
+    e_pos_element: {stage: element, cue_roles: [E], outcome: allergy}
+    f_none_element: {stage: element, cue_roles: [F], outcome: none}
+    gh_none_element: {stage: element, cue_roles: [G, H], outcome: none}
+    ab_pos: {stage: compound, cue_roles: [A, B], outcome: allergy}
+    cd_pos: {stage: compound, cue_roles: [C, D], outcome: allergy}
+    e_pos_compound: {stage: compound, cue_roles: [E], outcome: allergy}
+    f_none_compound: {stage: compound, cue_roles: [F], outcome: none}
+    gh_none_compound: {stage: compound, cue_roles: [G, H], outcome: none}
+    test_a: {stage: causal_test, cue_roles: [A], is_test: true}
+    test_b: {stage: causal_test, cue_roles: [B], is_test: true}
+    test_c: {stage: causal_test, cue_roles: [C], is_test: true}
+    test_d: {stage: causal_test, cue_roles: [D], is_test: true}
+    test_e: {stage: causal_test, cue_roles: [E], is_test: true}
+    test_f: {stage: causal_test, cue_roles: [F], is_test: true}
+    test_g: {stage: causal_test, cue_roles: [G], is_test: true}
+    test_h: {stage: causal_test, cue_roles: [H], is_test: true}
+timing:
+  prediction_window: 10.0
+  feedback_duration: 2.0
+  rating_window: 20.0
+  iti_duration: 0.5
+stimuli:
+  instruction:
+    type: text
+    font: SimHei
+    text: |
+      在这项任务中，您将了解一位患者吃下不同食物后的反应。
+
+      每轮先判断这顿食物会导致哪种结果：
+      1 = 无过敏反应    2 = 过敏反应    3 = 强烈过敏反应
+
+      作答后会显示真实结果。请利用所有已观察到的信息学习每种食物与过敏反应的关系。
+      最后，您将分别评价每种食物导致过敏反应的可能性。
+
+      按空格键开始。
+    color: black
+    height: 0.62
+    wrapWidth: 25
+    pos: [0, 0]
+  pretraining_element_instruction: {type: text, font: SimHei, text: "学习阶段一\n\n先观察单种食物与反应的关系。\n按空格键继续。", color: black, height: 0.64, wrapWidth: 24, pos: [0, 0]}
+  pretraining_compound_instruction: {type: text, font: SimHei, text: "学习阶段二\n\n现在有些餐食包含两种食物。请注意两种致敏食物合并时可能出现更强烈的反应。\n按空格键继续。", color: black, height: 0.62, wrapWidth: 24, pos: [0, 0]}
+  element_instruction: {type: text, font: SimHei, text: "正式学习阶段一\n\n请继续预测患者的反应。\n按空格键继续。", color: black, height: 0.64, wrapWidth: 24, pos: [0, 0]}
+  compound_instruction: {type: text, font: SimHei, text: "正式学习阶段二\n\n将出现单种或两种食物。请根据此前经验作出预测。\n按空格键继续。", color: black, height: 0.64, wrapWidth: 24, pos: [0, 0]}
+  causal_test_instruction: {type: text, font: SimHei, text: "因果评价\n\n接下来每次只显示一种食物。请用 0–8 评价它导致过敏反应的可能性。此阶段不再显示反馈。\n按空格键继续。", color: black, height: 0.62, wrapWidth: 24, pos: [0, 0]}
+  meal_heading: {type: text, font: SimHei, text: "患者这顿饭吃了：", color: black, height: 0.68, wrapWidth: 20, pos: [0, 4.2]}
+  feedback_heading: {type: text, font: SimHei, text: "实际结果", color: black, height: 0.68, wrapWidth: 20, pos: [0, 4.2]}
+  test_heading: {type: text, font: SimHei, text: "请评价这项食物", color: black, height: 0.68, wrapWidth: 20, pos: [0, 4.2]}
+  food_single: {type: textbox, font: SimHei, text: "{food}", color: black, fillColor: "#FFF8E8", borderColor: "#6B5B3E", borderWidth: 2, size: [6.0, 2.2], letterHeight: 0.8, alignment: center, pos: [0, 1.2]}
+  food_left: {type: textbox, font: SimHei, text: "{food}", color: black, fillColor: "#FFF8E8", borderColor: "#6B5B3E", borderWidth: 2, size: [5.0, 2.2], letterHeight: 0.8, alignment: center, pos: [-4.2, 1.2]}
+  food_right: {type: textbox, font: SimHei, text: "{food}", color: black, fillColor: "#FFF8E8", borderColor: "#6B5B3E", borderWidth: 2, size: [5.0, 2.2], letterHeight: 0.8, alignment: center, pos: [4.2, 1.2]}
+  prediction_prompt: {type: text, font: SimHei, text: "请选择预测\n\n1  无过敏反应        2  过敏反应        3  强烈过敏反应", color: black, height: 0.62, wrapWidth: 25, pos: [0, -3.2]}
+  outcome_none_frame: {type: rect, width: 9.0, height: 2.0, fillColor: "#F0FFF2", lineColor: "#198754", lineWidth: 3, pos: [0, -2.5]}
+  outcome_allergy_frame: {type: rect, width: 9.0, height: 2.0, fillColor: "#FFF1F1", lineColor: "#C62828", lineWidth: 3, pos: [0, -2.5]}
+  outcome_strong_outer: {type: rect, width: 10.0, height: 2.6, fillColor: "#FFF1F1", lineColor: "#C62828", lineWidth: 3, pos: [0, -2.5]}
+  outcome_strong_inner: {type: rect, width: 9.2, height: 1.8, fillColor: "#FFF1F1", lineColor: "#C62828", lineWidth: 3, pos: [0, -2.5]}
+  outcome_none: {type: text, font: SimHei, text: "无过敏反应", color: "#198754", height: 0.76, wrapWidth: 8, pos: [0, -2.5]}
+  outcome_allergy: {type: text, font: SimHei, text: "过敏反应", color: "#C62828", height: 0.76, wrapWidth: 8, pos: [0, -2.5]}
+  outcome_strong: {type: text, font: SimHei, text: "强烈过敏反应", color: "#C62828", height: 0.78, wrapWidth: 8, pos: [0, -2.5]}
+  causal_prompt: {type: text, font: SimHei, text: "这项食物导致过敏反应的可能性有多大？\n\n0   1   2   3   4   5   6   7   8\n肯定不会        可能会        肯定会", color: black, height: 0.58, wrapWidth: 25, pos: [0, -2.0]}
+  blank: {type: text, font: SimHei, text: "", color: black, height: 0.5, pos: [0, 0]}
+  good_bye: {type: text, font: SimHei, text: "任务完成\n\n学习预测正确率：{prediction_accuracy}\n阻断线索 B 评分：{blocked_rating}\n控制线索 C/D 平均评分：{control_mean}\n阻断分数（控制均值 − B）：{blocking_score}\n\n按空格键退出。", color: black, height: 0.62, wrapWidth: 24, pos: [0, 0]}
+triggers:
+  map:
+    experiment_start: 1
+    block_start: 10
+    prediction_pretraining_element: 20
+    prediction_pretraining_compound: 21
+    prediction_element: 22
+    prediction_compound: 23
+    predict_none: 30
+    predict_allergy: 31
+    predict_strong: 32
+    prediction_timeout: 33
+    feedback_none: 40
+    feedback_allergy: 41
+    feedback_strong: 42
+    causal_rating: 50
+    rating_0: 60
+    rating_1: 61
+    rating_2: 62
+    rating_3: 63
+    rating_4: 64
+    rating_5: 65
+    rating_6: 66
+    rating_7: 67
+    rating_8: 68
+    rating_timeout: 69
+    iti: 80
+    experiment_end: 98
+    block_end: 99
+  driver: {type: serial_url, url: "loop://"}
+  policy: {strict: false}
+  timing: {post_delay_s: 0.001}
+qa:
+  output_dir: outputs/qa
+  enable_scaling: true
+  timing_scale: 0.05
+  min_frames: 1
+  strict: false
+  max_wait_s: 120
+  acceptance_criteria:
+    required_columns: [trial_id, block_id, condition_id, stage, cue_roles, food_labels, outcome, is_test, response_key, response_rt, correct, causal_rating]
+    triggers_required: true
+responder:
+  type: responders.task_sampler:ScriptedResponder
+  kwargs: {}

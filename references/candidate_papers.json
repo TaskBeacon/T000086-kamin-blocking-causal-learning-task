@@ -1,0 +1,2415 @@
+[
+  {
+    "id": "W2152857807",
+    "title": "The propositional nature of human associative learning",
+    "authors": [
+      "Chris J. Mitchell",
+      "Jan De Houwer",
+      "Peter F. Lovibond"
+    ],
+    "year": 2009,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x09000855",
+    "citation_count": 760,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2001410425",
+    "title": "The propositional approach to associative learning as an alternative for association formation models",
+    "authors": [
+      "Jan De Houwer"
+    ],
+    "year": 2009,
+    "journal": "Animal Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/lb.37.1.1",
+    "citation_count": 363,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1981033617",
+    "title": "Cue interaction in human contingency judgment",
+    "authors": [
+      "Gretchen B. Chapman",
+      "Steven J. Robbins"
+    ],
+    "year": 1990,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03198486",
+    "citation_count": 264,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2180155584",
+    "title": "Two Ways of Learning Brand Associations",
+    "authors": [
+      "Stijn M. J. van Osselaer",
+      "Chris Janiszewski"
+    ],
+    "year": 2001,
+    "journal": "Journal of Consumer Research",
+    "doi_or_url": "https://doi.org/10.1086/322898",
+    "citation_count": 253,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2119991646",
+    "title": "Bayesian generic priors for causal learning.",
+    "authors": [
+      "Hongjing Lu",
+      "Alan Yuille",
+      "Mimi Liljeholm",
+      "Patricia W. Cheng",
+      "Keith J. Holyoak"
+    ],
+    "year": 2008,
+    "journal": "Psychological Review",
+    "doi_or_url": "https://doi.org/10.1037/a0013256",
+    "citation_count": 204,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2024675017",
+    "title": "Blocking and backward blocking involve learned inattention",
+    "authors": [
+      "John K. Kruschke",
+      "Nathaniel J. Blair"
+    ],
+    "year": 2000,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03213001",
+    "citation_count": 196,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2166644652",
+    "title": "A Unifying Probabilistic View of Associative Learning",
+    "authors": [
+      "Samuel J. Gershman"
+    ],
+    "year": 2015,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1004567",
+    "citation_count": 188,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2134948265",
+    "title": "Bayesian approaches to associative learning: From passive to active learning",
+    "authors": [
+      "John K. Kruschke"
+    ],
+    "year": 2008,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/lb.36.3.210",
+    "citation_count": 186,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2058498316",
+    "title": "Forward and backward blocking of causal judgment is enhanced by additivity of effect magnitude",
+    "authors": [
+      "Peter F. Peter F.",
+      "Sara-Lee Been",
+      "Chris J. Mitchell",
+      "Mark E. Bouton",
+      "Russell J. Frohardt"
+    ],
+    "year": 2003,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03196088",
+    "citation_count": 129,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2145687280",
+    "title": "Recovery from blocking achieved by extinguishing the blocking CS",
+    "authors": [
+      "Aaron P. Blaisdell",
+      "Lisa M. Gunther",
+      "Ralph R. Miller"
+    ],
+    "year": 1999,
+    "journal": "Animal Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03199432",
+    "citation_count": 120,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2159175063",
+    "title": "Ketamine Effects on Memory Reconsolidation Favor a Learning Model of Delusions",
+    "authors": [
+      "Philip R. Corlett",
+      "Victoria C. Cambridge",
+      "Jennifer M. Gardner",
+      "Jennifer S. Piggot",
+      "Danielle C. Turner",
+      "Jessica S. Everitt",
+      "F. Sergio Arana",
+      "Hannah L. Morgan",
+      "Amy Milton",
+      "Jonathan Lee",
+      "Michael R. F. Aitken",
+      "Anthony Dickinson"
+    ],
+    "year": 2013,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0065088",
+    "citation_count": 105,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2154904563",
+    "title": "Biological Significance as a Determinant of Cue Competition",
+    "authors": [
+      "James C. Denniston",
+      "Ralph R. Miller",
+      "Helena Matute"
+    ],
+    "year": 1996,
+    "journal": "Psychological Science",
+    "doi_or_url": "https://doi.org/10.1111/j.1467-9280.1996.tb00383.x",
+    "citation_count": 103,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2857688146",
+    "title": "A review on the effects of verbal instructions in human fear conditioning: Empirical findings, theoretical considerations, and future directions",
+    "authors": [
+      "Ga\u00ebtan Mertens",
+      "Yannick Boddez",
+      "Dieuwke Sevenster",
+      "Iris M. Engelhard",
+      "Jan De Houwer"
+    ],
+    "year": 2018,
+    "journal": "Biological Psychology",
+    "doi_or_url": "https://doi.org/10.1016/j.biopsycho.2018.07.002",
+    "citation_count": 102,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2087944328",
+    "title": "Overexpectation in appetitive Pavlovian and instrumental conditioning",
+    "authors": [
+      "K. Matthew Lattal",
+      "Sadahiko Nakajima"
+    ],
+    "year": 1998,
+    "journal": "Animal Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03199227",
+    "citation_count": 84,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1984916145",
+    "title": "On the origin of personal causal theories",
+    "authors": [
+      "Michael E. Young"
+    ],
+    "year": 1995,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03214413",
+    "citation_count": 82,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1980052709",
+    "title": "Stimulus competition in the absence of compound conditioning",
+    "authors": [
+      "Helena Matute",
+      "Oskar Pine\u00f1o"
+    ],
+    "year": 1998,
+    "journal": "Animal Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03199157",
+    "citation_count": 74,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2018212707",
+    "title": "An instance theory of associative learning",
+    "authors": [
+      "Randall K. Jamieson",
+      "Matthew J. C. Crump",
+      "Samuel D. Hannah"
+    ],
+    "year": 2011,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/s13420-011-0046-2",
+    "citation_count": 71,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2090791595",
+    "title": "Learning with arbitrary versus ecological conditioned stimuli: Evidence from sexual conditioning",
+    "authors": [
+      "Michael Domjan",
+      "Brian Cusato",
+      "Mark A. Krause"
+    ],
+    "year": 2004,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03196565",
+    "citation_count": 70,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2017917197",
+    "title": "Causal order does not affect cue selection in human associative learning",
+    "authors": [
+      "David R. Shanks",
+      "Francisco J. L\u00f3pez"
+    ],
+    "year": 1996,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03200939",
+    "citation_count": 68,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2019267515",
+    "title": "Dissociable Effects of Reward on Attentional Learning: From Passive Associations to Active Monitoring",
+    "authors": [
+      "Chiara Della Libera",
+      "Andrea Perlato",
+      "Leonardo Chelazzi"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0019460",
+    "citation_count": 67,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2118757108",
+    "title": "Cognition-Emotion Dysinteraction in Schizophrenia",
+    "authors": [
+      "Alan Anticevic",
+      "Philip R. Corlett"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2012.00392",
+    "citation_count": 60,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2078797464",
+    "title": "Causal and predictive-value judgments, but not predictions, are based on cue-outcome contingency",
+    "authors": [
+      "Miguel A. Vadillo",
+      "Ralph R. Miller",
+      "Helena Matute"
+    ],
+    "year": 2005,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03196061",
+    "citation_count": 51,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2150128318",
+    "title": "Cue competition as a retrieval deficit",
+    "authors": [
+      "James C. Denniston",
+      "Hern\u00e1n I. Savastano",
+      "Aaron P. Blaisdell",
+      "Ralph R. Miller"
+    ],
+    "year": 2003,
+    "journal": "Learning and Motivation",
+    "doi_or_url": "https://doi.org/10.1016/s0023-9690(02)00505-2",
+    "citation_count": 51,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2099444326",
+    "title": "Feedback-related Brain Potential Activity Complies with Basic Assumptions of Associative Learning Theory",
+    "authors": [
+      "David Luque",
+      "Francisco J. L\u00f3pez",
+      "Josep Marco\u2010Pallar\u00e9s",
+      "Estela C\u00e0mara",
+      "Antoni Rodr\u00edguez\u2010Fornells"
+    ],
+    "year": 2011,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn_a_00145",
+    "citation_count": 50,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2162989577",
+    "title": "The dark side of cognitive illusions: When an illusory belief interferes with the acquisition of evidence\u2010based knowledge",
+    "authors": [
+      "Ion Yarritu",
+      "Helena Matute",
+      "David Luque"
+    ],
+    "year": 2015,
+    "journal": "British Journal of Psychology",
+    "doi_or_url": "https://doi.org/10.1111/bjop.12119",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2059624209",
+    "title": "Biological significance attenuates overshadowing, relative validity, and degraded contingency effects",
+    "authors": [
+      "Philippe Oberling",
+      "Adam S. Bristol",
+      "Helena Matute",
+      "Ralph R. Miller"
+    ],
+    "year": 2000,
+    "journal": "Animal Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03200252",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2038091991",
+    "title": "Simulations of a modified SOP model applied to retrospective revaluation of human causal learning",
+    "authors": [
+      "Michael R. F. Aitken",
+      "Anthony Dickinson"
+    ],
+    "year": 2005,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03196059",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2043323332",
+    "title": "Surprise and change: Variations in the strength of present and absent cues in causal learning",
+    "authors": [
+      "Edward A. Wasserman",
+      "Leyre Castro"
+    ],
+    "year": 2005,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03196058",
+    "citation_count": 40,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2025681864",
+    "title": "Delusions and prediction error: re-examining the behavioural evidence for disrupted error signalling in delusion formation",
+    "authors": [
+      "Oren Griffiths",
+      "Robyn Langdon",
+      "Mike E. Le Pelley",
+      "Max Coltheart"
+    ],
+    "year": 2014,
+    "journal": "Cognitive Neuropsychiatry",
+    "doi_or_url": "https://doi.org/10.1080/13546805.2014.897601",
+    "citation_count": 36,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2050785220",
+    "title": "Blocking in landmark-based search in honeybees",
+    "authors": [
+      "Ken Cheng",
+      "Marcia L. Spetch"
+    ],
+    "year": 2001,
+    "journal": "Animal Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03192811",
+    "citation_count": 33,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W323271861",
+    "title": "Interference in Human Predictive Learning when Associations Share a Common Element",
+    "authors": [
+      "Oskar Pine\u00f1o",
+      "Helena Matute"
+    ],
+    "year": 2000,
+    "journal": "International Journal of Comparative Psychology",
+    "doi_or_url": "https://doi.org/10.46867/c4bs3p",
+    "citation_count": 29,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2058332767",
+    "title": "Determining whether causal order affects cue selection in human contingency learning: Comments on Shanks and Lopez (1996)",
+    "authors": [
+      "Michael R. Waldmann",
+      "Keith J. Holyoak"
+    ],
+    "year": 1997,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03197290",
+    "citation_count": 28,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2045347784",
+    "title": "Attentional changes in blocking are not a consequence of lateral inhibition",
+    "authors": [
+      "Oren Griffiths",
+      "Mike E. Le Pelley"
+    ],
+    "year": 2009,
+    "journal": "Animal Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/lb.37.1.27",
+    "citation_count": 27,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2040479590",
+    "title": "Reversal from blocking in humans as a result of posttraining extinction of the blocking stimulus",
+    "authors": [
+      "Francisco Arcediano",
+      "Martha Escobar",
+      "Helena Matute"
+    ],
+    "year": 2001,
+    "journal": "Animal Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03192901",
+    "citation_count": 26,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2114780691",
+    "title": "Recovery from the overexpectation effect: Contrasting performance-focused and acquisition-focused models of retrospective revaluation",
+    "authors": [
+      "Aaron P. Blaisdell",
+      "James C. Denniston",
+      "Ralph R. Miller"
+    ],
+    "year": 2001,
+    "journal": "Animal Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03192902",
+    "citation_count": 25,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2016519926",
+    "title": "Overshadowing as a function of trial number: Dynamics of first- and second-order comparator effects",
+    "authors": [
+      "Steven C. Stout",
+      "Francisco Arcediano",
+      "Martha Escobar",
+      "Ralph R. Miller"
+    ],
+    "year": 2003,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03195972",
+    "citation_count": 25,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2170107415",
+    "title": "Selectivity in associative learning: a cognitive stage framework for blocking and cue competition phenomena",
+    "authors": [
+      "Yannick Boddez",
+      "Kim Haesen",
+      "Frank Baeyens",
+      "Tom Beckers"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.01305",
+    "citation_count": 25,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W311189091",
+    "title": "A Review of the Empirical Laws of Basic Learning in Pavlovian Conditioning",
+    "authors": [
+      "Martha Escobar",
+      "Ralph R. Miller"
+    ],
+    "year": 2004,
+    "journal": "International Journal of Comparative Psychology",
+    "doi_or_url": "https://doi.org/10.46867/ijcp.2004.17.02.01",
+    "citation_count": 25,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2566765511",
+    "title": "Three Ways That Non-associative Knowledge May Affect Associative Learning Processes",
+    "authors": [
+      "Anna Thorwart",
+      "Evan J. Livesey"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.02024",
+    "citation_count": 24,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2794335990",
+    "title": "Reduced selective learning in patients with fibromyalgia vs healthy controls",
+    "authors": [
+      "Ann Meulders",
+      "Yannick Boddez",
+      "Fernando Blanco",
+      "Maaike Van Den Houte",
+      "Johan W.S. Vlaeyen"
+    ],
+    "year": 2018,
+    "journal": "Pain",
+    "doi_or_url": "https://doi.org/10.1097/j.pain.0000000000001207",
+    "citation_count": 23,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4224273799",
+    "title": "Testing improves performance as well as assesses learning: A review of the testing effect with implications for models of learning.",
+    "authors": [
+      "Cody W. Polack",
+      "Ralph R. Miller"
+    ],
+    "year": 2022,
+    "journal": "Journal of Experimental Psychology Animal Learning and Cognition",
+    "doi_or_url": "https://doi.org/10.1037/xan0000323",
+    "citation_count": 23,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2150857445",
+    "title": "Contrasting predictive and causal values of predictors and of causes",
+    "authors": [
+      "Oskar Pine\u00f1o",
+      "James C. Denniston",
+      "Tom Beckers",
+      "Helena Matute",
+      "Ralph R. Miller"
+    ],
+    "year": 2005,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03196062",
+    "citation_count": 23,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2117242869",
+    "title": "A comparison between elemental and compound training of cues in retrospective revaluation",
+    "authors": [
+      "Martha Escobar",
+      "Oskar Pine\u00f1o",
+      "Helena Matute"
+    ],
+    "year": 2002,
+    "journal": "Animal Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03192832",
+    "citation_count": 23,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1696349623",
+    "title": "Sequential Causal Learning in Humans and Rats",
+    "authors": [
+      "Hongjing Lu",
+      "Randall R. Rojas",
+      "Tom Beckers",
+      "Alan Yuille"
+    ],
+    "year": 2008,
+    "journal": "eScholarship (California Digital Library)",
+    "doi_or_url": "https://openalex.org/W1696349623",
+    "citation_count": 22,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2068428874",
+    "title": "Asymptotic judgment of cause in a relative validity paradigm",
+    "authors": [
+      "Andrew G. Baker",
+      "Fr\u00e9d\u00e9ric Vall\u00e9e\u2010Tourangeau",
+      "Robin A. Murphy"
+    ],
+    "year": 2000,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/bf03198561",
+    "citation_count": 21,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2105214920",
+    "title": "Efficient learning mechanisms hold in the social domain and are implemented in the medial prefrontal cortex",
+    "authors": [
+      "Azade Seid-Fatemi",
+      "Philippe N. Tobler"
+    ],
+    "year": 2014,
+    "journal": "Social Cognitive and Affective Neuroscience",
+    "doi_or_url": "https://doi.org/10.1093/scan/nsu130",
+    "citation_count": 21,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2000610160",
+    "title": "Extinction and blocking of conditioned inhibition in human causal learning",
+    "authors": [
+      "Irina Baetu",
+      "A. G. Baker"
+    ],
+    "year": 2010,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/lb.38.4.394",
+    "citation_count": 21,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2019947072",
+    "title": "Applying Signal Detection Theory to Contingency Assessment",
+    "authors": [
+      "Shepard Siegel",
+      "Lorraine G. Allan",
+      "Samuel D. Hannah",
+      "Matthew J. C. Crump"
+    ],
+    "year": 2009,
+    "journal": "Comparative Cognition & Behavior Reviews",
+    "doi_or_url": "https://doi.org/10.3819/ccbr.2009.40012",
+    "citation_count": 20,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4401794273",
+    "title": "Pavlovian safety learning: An integrative theoretical review",
+    "authors": [
+      "Patrick A.F. Laing",
+      "Bram Vervliet",
+      "Joseph E. Dunsmoor",
+      "Ben J. Harrison"
+    ],
+    "year": 2024,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-024-02559-4",
+    "citation_count": 19,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2062314938",
+    "title": "Revisiting the role of within-compound associations in cue-interaction phenomena",
+    "authors": [
+      "David Luque",
+      "Amanda Flores",
+      "Miguel A. Vadillo"
+    ],
+    "year": 2012,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/s13420-012-0085-3",
+    "citation_count": 19,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2074221715",
+    "title": "Timing in retroactive interference",
+    "authors": [
+      "Martha Escobar",
+      "Ralph R. Miller"
+    ],
+    "year": 2003,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03195987",
+    "citation_count": 18,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2009601475",
+    "title": "Is stimulus competition an acquisition deficit or a performance deficit?",
+    "authors": [
+      "Francisco Arcediano",
+      "Martha Escobar",
+      "Ralph R. Miller"
+    ],
+    "year": 2004,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/bf03196744",
+    "citation_count": 18,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2131405106",
+    "title": "The effect of subadditive pretraining on blocking: Limits on generalization",
+    "authors": [
+      "Daniel S. Wheeler",
+      "Tom Beckers",
+      "Richard R. Miller"
+    ],
+    "year": 2008,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/lb.36.4.341",
+    "citation_count": 18,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2936100519",
+    "title": "Cue Competition and Incidental Learning: No Blocking or Overshadowing in the Colour-Word Contingency Learning Procedure Without Instructions to Learn",
+    "authors": [
+      "James R. Schmidt",
+      "Jan De Houwer"
+    ],
+    "year": 2019,
+    "journal": "Collabra Psychology",
+    "doi_or_url": "https://doi.org/10.1525/collabra.236",
+    "citation_count": 18,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2078890878",
+    "title": "A comparative approach to cue competition with one and two strong predictors",
+    "authors": [
+      "Irina Baetu",
+      "A. G. Baker",
+      "Christine Darredeau",
+      "Robin A. Murphy"
+    ],
+    "year": 2005,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03196060",
+    "citation_count": 16,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1966352682",
+    "title": "Conditioned inhibition training of the competing cue after compound conditioning does not reduce cue competition",
+    "authors": [
+      "Anthony S. Rauhut",
+      "Janice E. McPhee",
+      "Norma T. Dipietro",
+      "John J. B. Ayres"
+    ],
+    "year": 2000,
+    "journal": "Animal Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03199775",
+    "citation_count": 16,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2030878329",
+    "title": "Constraining bridges between levels of analysis: A computational justification for locally Bayesian learning",
+    "authors": [
+      "Adam N. Sanborn",
+      "Ricardo Silva"
+    ],
+    "year": 2013,
+    "journal": "Journal of Mathematical Psychology",
+    "doi_or_url": "https://doi.org/10.1016/j.jmp.2013.05.002",
+    "citation_count": 16,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4379792560",
+    "title": "From their point of view: the article category as a hierarchically structured referent tracking system",
+    "authors": [
+      "Dagmar Divjak",
+      "Laurence Romain",
+      "Petar Milin"
+    ],
+    "year": 2023,
+    "journal": "Linguistics",
+    "doi_or_url": "https://doi.org/10.1515/ling-2022-0186",
+    "citation_count": 16,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2201095413",
+    "title": "Everywhere and Everything: The Power and Ubiquity of Time",
+    "authors": [
+      "Andrew T. Marshall",
+      "Kimberly Kirkpatrick"
+    ],
+    "year": 2015,
+    "journal": "International Journal of Comparative Psychology",
+    "doi_or_url": "https://doi.org/10.46867/ijcp.2015.28.02.03",
+    "citation_count": 15,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2313707924",
+    "title": "Outcome predictability biases learning.",
+    "authors": [
+      "Oren Griffiths",
+      "Chris J. Mitchell",
+      "Anna Bethmont",
+      "Peter F. Lovibond"
+    ],
+    "year": 2014,
+    "journal": "Journal of Experimental Psychology Animal Learning and Cognition",
+    "doi_or_url": "https://doi.org/10.1037/xan0000042",
+    "citation_count": 15,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2054614662",
+    "title": "Brain mechanisms of visual encoding and working memory in psychometrically identified schizotypal individuals and after acute administration of haloperidol",
+    "authors": [
+      "Bruno Kopp",
+      "Monika Wolff",
+      "Claudia Hruska",
+      "Friedel M. Reischies"
+    ],
+    "year": 2002,
+    "journal": "Psychophysiology",
+    "doi_or_url": "https://doi.org/10.1111/1469-8986.3940459",
+    "citation_count": 15,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2147973733",
+    "title": "Spontaneous recovery and ABC renewal from retroactive cue interference",
+    "authors": [
+      "Gonzalo M\u00edguez",
+      "Henry X. Cham",
+      "Ralph R. Miller"
+    ],
+    "year": 2011,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/s13420-011-0044-4",
+    "citation_count": 15,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2067260990",
+    "title": "New methods for solving the Rescorla-Wagner model",
+    "authors": [
+      "Makoto Yamaguchi"
+    ],
+    "year": 1999,
+    "journal": "Behavior Research Methods, Instruments, & Computers",
+    "doi_or_url": "https://doi.org/10.3758/bf03200746",
+    "citation_count": 12,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2054533704",
+    "title": "The role of within-compound associations in learning about absent cues",
+    "authors": [
+      "James E. Witnauer",
+      "Ralph R. Miller"
+    ],
+    "year": 2011,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/s13420-010-0013-3",
+    "citation_count": 12,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2048917343",
+    "title": "When more is less: Extending training of the blocking association following compound training attenuates the blocking effect",
+    "authors": [
+      "Oskar Pine\u00f1o",
+      "Kouji Urushihara",
+      "Steven C. Stout",
+      "Jessica Fuss",
+      "Ralph R. Miller"
+    ],
+    "year": 2006,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03192868",
+    "citation_count": 10,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4385840846",
+    "title": "Excessive teleological thinking is driven by aberrant associations and not by failure of reasoning",
+    "authors": [
+      "Joan Danielle K. Ongchoco",
+      "Santiago Castiello",
+      "Philip R. Corlett"
+    ],
+    "year": 2023,
+    "journal": "iScience",
+    "doi_or_url": "https://doi.org/10.1016/j.isci.2023.107643",
+    "citation_count": 10,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1971934259",
+    "title": "Computer simulations of the Rescorla-Wagner and Pearce-Hall models in conditioning and contingency judgment",
+    "authors": [
+      "Pierre Mercier"
+    ],
+    "year": 1996,
+    "journal": "Behavior Research Methods, Instruments, & Computers",
+    "doi_or_url": "https://doi.org/10.3758/bf03203636",
+    "citation_count": 9,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2940890548",
+    "title": "Testing the deductive inferential account of blocking in causal learning",
+    "authors": [
+      "Evan J. Livesey",
+      "Justine K. Greenaway",
+      "Samantha Schubert",
+      "Anna Thorwart"
+    ],
+    "year": 2019,
+    "journal": "Memory & Cognition",
+    "doi_or_url": "https://doi.org/10.3758/s13421-019-00920-w",
+    "citation_count": 9,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2101009862",
+    "title": "Blocking in human causal learning is affected by outcome assumptions manipulated through causal structure",
+    "authors": [
+      "Fernando Blanco",
+      "Frank Baeyens",
+      "Tom Beckers"
+    ],
+    "year": 2014,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/s13420-014-0137-y",
+    "citation_count": 9,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3127440437",
+    "title": "Hearing hooves, thinking zebras: A review of the inverse base-rate effect",
+    "authors": [
+      "Hilary J. Don",
+      "Darrell A. Worthy",
+      "Evan J. Livesey"
+    ],
+    "year": 2021,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-020-01870-0",
+    "citation_count": 9,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4290994190",
+    "title": "Temporal contiguity determines overshadowing and potentiation of human Action-Outcome performance",
+    "authors": [
+      "Jos\u00e9 A. Alcal\u00e1",
+      "Richard D. Kirkden",
+      "Jess Bray",
+      "Jos\u00e9 Prados",
+      "Gonzalo P. Urcelay"
+    ],
+    "year": 2022,
+    "journal": "Psychonomic Bulletin & Review",
+    "doi_or_url": "https://doi.org/10.3758/s13423-022-02155-4",
+    "citation_count": 8,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4323842346",
+    "title": "Inhibitory Learning with Bidirectional Outcomes: Prevention Learning or Causal Learning in the Opposite Direction?",
+    "authors": [
+      "Julie Y. L. Chow",
+      "Jessica C. Lee",
+      "Peter F. Lovibond"
+    ],
+    "year": 2023,
+    "journal": "Journal of Cognition",
+    "doi_or_url": "https://doi.org/10.5334/joc.266",
+    "citation_count": 8,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4285156301",
+    "title": "Learning Theory Principles for Psychotherapy",
+    "authors": [
+      "John R. Rossiter"
+    ],
+    "year": 2022,
+    "journal": "Psychology",
+    "doi_or_url": "https://doi.org/10.4236/psych.2022.135049",
+    "citation_count": 7,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1981351616",
+    "title": "Retrospective revaluation of associative retroactive cue interference",
+    "authors": [
+      "Gonzalo M\u00edguez",
+      "Mario A. Laborda",
+      "Ralph R. Miller"
+    ],
+    "year": 2013,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/s13420-013-0123-9",
+    "citation_count": 7,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2094859633",
+    "title": "Discrimination blocking: Acquisition versus performance deficits in human contingency learning",
+    "authors": [
+      "Leyre Castro",
+      "Edward A. Wasserman"
+    ],
+    "year": 2007,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/bf03193050",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2559020909",
+    "title": "Rapid Top-Down Control of Behavior Due to Propositional Knowledge in Human Associative Learning",
+    "authors": [
+      "Francisco J. L\u00f3pez",
+      "Rafael Alonso",
+      "David Luque"
+    ],
+    "year": 2016,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0167115",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4214654509",
+    "title": "Blocking is not \u2018pure\u2019 cue competition: Renewal-like effects in forward and backward blocking indicate contributions by associative cue interference.",
+    "authors": [
+      "Gonzalo M\u00edguez",
+      "Ralph R. Miller"
+    ],
+    "year": 2022,
+    "journal": "Journal of Experimental Psychology Animal Learning and Cognition",
+    "doi_or_url": "https://doi.org/10.1037/xan0000315",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4366164108",
+    "title": "Contiguity and overshadowing interactions in the rapid-streaming procedure",
+    "authors": [
+      "Jos\u00e9 A. Alcal\u00e1",
+      "Ralph R. Miller",
+      "Richard D. Kirkden",
+      "Gonzalo P. Urcelay"
+    ],
+    "year": 2023,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/s13420-023-00582-4",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2013495765",
+    "title": "A common error term regulates acquisition but not extinction of causal judgments in people",
+    "authors": [
+      "Oren Griffiths",
+      "R. Frederick Westbrook"
+    ],
+    "year": 2011,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/s13420-011-0056-0",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2019256031",
+    "title": "Effect of outcome valence on positive and negative patterning in human causal reasoning",
+    "authors": [
+      "J. W. Whitlow"
+    ],
+    "year": 2010,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/lb.38.2.145",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2140862864",
+    "title": "A test of Rescorla and Wagner\u2019s (1972) prediction of nonlinear effects in contingency learning",
+    "authors": [
+      "Joaqu\u00edn Mor\u00eds",
+      "Susana Carnero-Sierra",
+      "Ignacio Loy"
+    ],
+    "year": 2012,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/s13420-012-0070-x",
+    "citation_count": 5,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3139392167",
+    "title": "Representing uncertainty in the Rescorla-Wagner model: Blocking, the redundancy effect, and outcome base rate",
+    "authors": [
+      "Stuart Gordon Spicer",
+      "Andy J. Wills",
+      "Peter M. Jones",
+      "Chris J. Mitchell",
+      "Lenard Dome"
+    ],
+    "year": 2021,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.46221/ojepn.2021.6623",
+    "citation_count": 5,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2158404522",
+    "title": "What Priming Techniques Can Tell Us about Associative Representations Acquired During Human Contingency Learning",
+    "authors": [
+      "Joaqu\u00edn Mor\u00eds",
+      "Pedro L. Cobos",
+      "David Luque"
+    ],
+    "year": 2010,
+    "journal": "The Open Psychology Journal",
+    "doi_or_url": "https://doi.org/10.2174/1874350101003010097",
+    "citation_count": 5,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4399390187",
+    "title": "Learners restrict their linguistic generalizations using preemption but not entrenchment: Evidence from artificial-language-learning studies with adults and children.",
+    "authors": [
+      "Anna Samara",
+      "Elizabeth Wonnacott",
+      "Gaurav Saxena",
+      "Ramya Maitreyee",
+      "Judit Fazekas",
+      "Ben Ambridge"
+    ],
+    "year": 2024,
+    "journal": "Psychological Review",
+    "doi_or_url": "https://doi.org/10.1037/rev0000463",
+    "citation_count": 5,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2586533884",
+    "title": "Do Preschoolers Understand Causality? A Critical Look",
+    "authors": [
+      "Heidi Kloos",
+      "Valdimir M. Sloutsky"
+    ],
+    "year": 2005,
+    "journal": "eScholarship (California Digital Library)",
+    "doi_or_url": "https://openalex.org/W2586533884",
+    "citation_count": 4,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3211969120",
+    "title": "What makes the past perfect and the future progressive? Experiential coordinates for a learnable, context-based model of tense and aspect",
+    "authors": [
+      "Laurence Romain",
+      "Adnane Ez\u2010zizi",
+      "Petar Milin",
+      "Dagmar Divjak"
+    ],
+    "year": 2022,
+    "journal": "Cognitive Linguistics",
+    "doi_or_url": "https://doi.org/10.1515/cog-2021-0006",
+    "citation_count": 4,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1991414322",
+    "title": "Adaptive diversity and misbelief",
+    "authors": [
+      "Edward T. Cokely",
+      "Adam Feltz"
+    ],
+    "year": 2009,
+    "journal": "Behavioral and Brain Sciences",
+    "doi_or_url": "https://doi.org/10.1017/s0140525x09991415",
+    "citation_count": 4,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4281696126",
+    "title": "Reversal of inhibition by no-modulation training but not by extinction in human causal learning.",
+    "authors": [
+      "Peter F. Lovibond",
+      "Julie Y. L. Chow",
+      "Cheryl Tobler",
+      "Jessica C. Lee"
+    ],
+    "year": 2022,
+    "journal": "Journal of Experimental Psychology Animal Learning and Cognition",
+    "doi_or_url": "https://doi.org/10.1037/xan0000328",
+    "citation_count": 4,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4401328546",
+    "title": "Forward and backward blocking in statistical learning",
+    "authors": [
+      "\u0130layda Nazl\u0131",
+      "Ambra Ferrari",
+      "Christoph Huber\u2010Huber",
+      "Floris P. de Lange"
+    ],
+    "year": 2024,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0306797",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2026591136",
+    "title": "Evidence for online processing during causal learning",
+    "authors": [
+      "Peipei Liu",
+      "Christian C. Luhmann"
+    ],
+    "year": 2014,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/s13420-014-0156-8",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4381548199",
+    "title": "Overshadowing, but not relative validity, between the elements of an outcome during human associative learning",
+    "authors": [
+      "Martyn Quigley",
+      "Mark Haselgrove"
+    ],
+    "year": 2023,
+    "journal": "Neurobiology of Learning and Memory",
+    "doi_or_url": "https://doi.org/10.1016/j.nlm.2023.107790",
+    "citation_count": 3,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4408722686",
+    "title": "Are You Studying Occasion Setting? A Review for Inquiring Minds",
+    "authors": [
+      "Kenneth J. Leising",
+      "Jordan Nerz",
+      "John Sol\u00f3rzano-Restrepo",
+      "S. Bond"
+    ],
+    "year": 2025,
+    "journal": "Comparative Cognition & Behavior Reviews",
+    "doi_or_url": "https://doi.org/10.3819/ccbr.2025.200002",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4395011635",
+    "title": "Absence of differential protection from extinction in human causal learning.",
+    "authors": [
+      "David N. George",
+      "Josephine E. Haddon",
+      "Oren Griffiths"
+    ],
+    "year": 2024,
+    "journal": "Journal of Experimental Psychology Animal Learning and Cognition",
+    "doi_or_url": "https://doi.org/10.1037/xan0000380",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1579195882",
+    "title": "Aprendizaje de relaciones de contingencia y causalidad: una aproximaci\u00f3n a las tendencias te\u00f3ricas actuales",
+    "authors": [
+      "Jos\u00e9 C. Perales",
+      "Andr\u00e9s Catena",
+      "Antonio Maldonado",
+      "Manuel Mesa Ramos"
+    ],
+    "year": 1999,
+    "journal": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Cient\u00edficas)",
+    "doi_or_url": "https://openalex.org/W1579195882",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4385841248",
+    "title": "Schizotypy dimensions do not predict overshadowing",
+    "authors": [
+      "Martyn Quigley",
+      "A. Paul Bradley",
+      "Mark Haselgrove"
+    ],
+    "year": 2023,
+    "journal": "Behavioural Brain Research",
+    "doi_or_url": "https://doi.org/10.1016/j.bbr.2023.114631",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4250080150",
+    "title": "Cuando la contig\u00fcidad no es suficiente: bloqueo en relaciones de equivalencia",
+    "authors": [
+      "Diana Delgado",
+      "Iv\u00e1n Felipe Medina-Arboleda"
+    ],
+    "year": 2013,
+    "journal": "Universitas Psychologica",
+    "doi_or_url": "https://doi.org/10.11144/javeriana.upsy12-2.ccns",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W208302893",
+    "title": "Covariation, Structure and Generalization: Building Blocks of Causal Cognition",
+    "authors": [
+      "Robin A. Murphy",
+      "Esther Mondrag\u00f3n",
+      "Victoria A. Murphy"
+    ],
+    "year": 2009,
+    "journal": "International Journal of Comparative Psychology",
+    "doi_or_url": "https://doi.org/10.46867/ijcp.2009.22.01.01",
+    "citation_count": 2,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W182882676",
+    "title": "Do Associations Explain Mental Models of Cause?",
+    "authors": [
+      "Itxaso Barberia",
+      "Irina Baetu",
+      "Robin A. Murphy",
+      "A. G. Baker"
+    ],
+    "year": 2011,
+    "journal": "International Journal of Comparative Psychology",
+    "doi_or_url": "https://doi.org/10.46867/ijcp.2011.24.04.04",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W7127126283",
+    "title": "When time matters: generalization gradients in delay and trace conditioning procedures",
+    "authors": [
+      "Jos\u00e9 A. Alcal\u00e1",
+      "Jessica C. Lee",
+      "Gonzalo P. Urcelay"
+    ],
+    "year": 2026,
+    "journal": "Learning & Behavior",
+    "doi_or_url": "https://doi.org/10.3758/s13420-026-00708-4",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4406405892",
+    "title": "Attribute Conditioning is insensitive to cue competition and is not predicted by the Big Five Personality Traits",
+    "authors": [
+      "Martyn Quigley",
+      "Simon Dymond",
+      "Katie Kiely",
+      "A. Paul Bradley",
+      "Mark Haselgrove"
+    ],
+    "year": 2025,
+    "journal": "Personality and Social Psychology Bulletin",
+    "doi_or_url": "https://doi.org/10.1177/01461672241308921",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4411321010",
+    "title": "Predicting continuous outcomes: Some new tests of associative approaches to contingency learning",
+    "authors": [
+      "Julie Y. L. Chow",
+      "Hilary J. Don",
+      "Ben Colagiuri",
+      "Evan J. Livesey"
+    ],
+    "year": 2026,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1013220",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W211876202",
+    "title": "Separate Training Influences Relative Validity",
+    "authors": [
+      "Rick Mehta",
+      "Jamie-Lynne Dumont",
+      "Sharon Combiadakis",
+      "Douglas A. Williams"
+    ],
+    "year": 2004,
+    "journal": "International Journal of Comparative Psychology",
+    "doi_or_url": "https://doi.org/10.46867/ijcp.2004.17.02.02",
+    "citation_count": 1,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2590473778",
+    "title": "Social cognitive framework for advertising",
+    "authors": [
+      "Justin Combs"
+    ],
+    "year": 2016,
+    "journal": "W. S. Hoole Special Collections Library Manuscript Collections",
+    "doi_or_url": "https://openalex.org/W2590473778",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2133004632",
+    "title": "Increased Visual Attention to Moderate Causes Mitigates the Discounting Effect",
+    "authors": [
+      "Lindsey A. Czarnecki"
+    ],
+    "year": 2009,
+    "journal": "Seton Hall University eRepository (Seton Hall University)",
+    "doi_or_url": "https://openalex.org/W2133004632",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W7160656193",
+    "title": "Perceptual learning mechanisms with single-stimulus exposure",
+    "authors": [
+      "Mar\u00eda del Carmen Sanju\u00e1n",
+      "James B. Nelson"
+    ],
+    "year": 2026,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0327927",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4415765037",
+    "title": "Associative Learning in a Conspiratorial Frame",
+    "authors": [
+      "Tom Kelly",
+      "Michael Hattersley",
+      "Elliot A. Ludvig"
+    ],
+    "year": 2025,
+    "journal": "Quarterly Journal of Experimental Psychology",
+    "doi_or_url": "https://doi.org/10.1177/17470218251396472",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W7145512717",
+    "title": "A successful Replication of Associative Blocking Effect on Conditioned Suppression in Rats",
+    "authors": [
+      "\u539a\u4ec1 \u5c71\u5cb8",
+      "\u5b9a\u5f66 \u4e2d\u5cf6",
+      "\u7fd4\u592a \u5ee3\u91ce",
+      "\u7f8e\u7dd1 \u4e09\u5cf6",
+      "\u7422\u6d77 \u6728\u672c",
+      "\u6d69\u660e \u8a18\u7530",
+      "\u5927\u7a00 \u9e7f\u702c",
+      "\u672a\u5b87 \u677e\u85e4",
+      "\u592a\u90ce \u9152\u4e95",
+      "\u64ce\u5b87 \u8cc8",
+      "\u4f91\u5e0c\u7f8e \u6a4b\u672c",
+      "\u6625\u7f8e \u6c34\u6c5f"
+    ],
+    "year": 2019,
+    "journal": "Institutional Repositories DataBase (IRDB)",
+    "doi_or_url": "https://openalex.org/W7145512717",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2571671692",
+    "title": "Blocking Requires Uncertainty about Novel Cues",
+    "authors": [
+      "Peipei Liu",
+      "Christian C. Luhmann"
+    ],
+    "year": 2011,
+    "journal": "eScholarship (California Digital Library)",
+    "doi_or_url": "https://openalex.org/W2571671692",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2160419657",
+    "title": "Causal and Predictive Learning Based on Normative Contextualization: The Relevance Relativization Model",
+    "authors": [
+      "Manuel M. Ramos\u2010\u00c1lvarez",
+      "Andr\u00e9s Catena"
+    ],
+    "year": 2010,
+    "journal": "The Open Psychology Journal",
+    "doi_or_url": "https://doi.org/10.2174/1874350101003010163",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3045279912",
+    "title": "Modifiability Of Strategy Use In Probabilistic Categorization By Rhesus Macaques (Macaca Mulatta) And Capuchin Monkeys (Cebus [Sapajus] Apella)",
+    "authors": [
+      "William Whitham"
+    ],
+    "year": 2022,
+    "journal": "Digital Archive @ GSU",
+    "doi_or_url": "https://doi.org/10.57709/18629955",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4400230364",
+    "title": "Contingencias como Modelos de Causalidad en Psicopatolog\u00eda",
+    "authors": [
+      "Santiago Castiello",
+      "Robin A. Murphy"
+    ],
+    "year": 2024,
+    "journal": "Acta comportamentalia.",
+    "doi_or_url": "https://doi.org/10.32870/ac.v32i2.88355",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2620644420",
+    "title": "Cue-to-consequence effects in an associative account of causal attribution",
+    "authors": [
+      "Jill Ann Kuhn"
+    ],
+    "year": 1993,
+    "journal": "CSUSB ScholarWorks (California State University, San Bernardino)",
+    "doi_or_url": "https://openalex.org/W2620644420",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2290258184",
+    "title": "Learned Attention in Younger and Older Adults",
+    "authors": [
+      "Jared M. Holder"
+    ],
+    "year": 2010,
+    "journal": "TopSCHOLAR (Western Kentucky University)",
+    "doi_or_url": "https://openalex.org/W2290258184",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4413088951",
+    "title": "Causal learning with two confounded causes over weeks",
+    "authors": [
+      "Benjamin M. Rottman"
+    ],
+    "year": 2025,
+    "journal": "Judgment and Decision Making",
+    "doi_or_url": "https://doi.org/10.1017/jdm.2025.10006",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3161888164",
+    "title": "Temporal and spatial contiguity are necessary for competition between events",
+    "authors": [
+      "Urcelay, Gonzalo"
+    ],
+    "year": 2021,
+    "journal": "Bournemouth University Research Online (Bournemouth University)",
+    "doi_or_url": "https://doi.org/10.17639/nott.7110",
+    "citation_count": 0,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

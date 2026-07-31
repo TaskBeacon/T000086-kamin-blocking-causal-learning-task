@@ -1,0 +1,23 @@
+id: T000086
+slug: kamin-blocking-causal-learning-task
+title: Kamin Blocking and Causal Learning Task
+acquisition: behavior
+variant: additive-forward-blocking
+cognitive_domain:
+  - causal-learning
+  - associative-learning
+  - cue-competition
+maturity: draft
+version:
+  release_tag: v0.1.0
+contracts:
+  taps: v0.2.0
+runtime:
+  profile: psyflow
+evidence:
+  - https://doi.org/10.3758/BF03198486
+  - https://doi.org/10.3758/BF03213001
+  - https://doi.org/10.3758/BF03196088
+  - https://doi.org/10.1111/j.1467-9280.1996.tb00383.x
+maintainer:
+  - TaskBeacon
