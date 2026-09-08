@@ -142,7 +142,7 @@ triggers:
     iti: 80
     experiment_end: 98
     block_end: 99
-  driver: {type: serial_url, url: "loop://"}
+  driver: {type: mock, print_codes: true}
   policy: {strict: false}
   timing: {post_delay_s: 0.001}
 sim:
